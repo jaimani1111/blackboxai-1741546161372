@@ -1,0 +1,21 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.primary {
+  color: #1B4E6B;
+}
+
+.bg-primary {
+  background-color: #1B4E6B;
+}
+
+.bg-primary\/10 {
+  background-color: rgba(27, 78, 107, 0.1);
+}
+
+/* Add any additional custom styles here */
